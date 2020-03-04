@@ -71,4 +71,5 @@ chown www-data: . -R
 
 This could take a while because of the amount of files inside the directory (especially because of the `vendor` folder). There is no guarantee that those commands on all machines and operating systems. 
 
+RAM should be checked
 
